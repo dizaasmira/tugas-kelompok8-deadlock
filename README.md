@@ -62,9 +62,3 @@ Di Windows PowerShell: `$env:MODE="fixed"; $env:TIMEOUT="5"; python deadlock_dem
 | Deadlock run 1 (PID 2421) | T1, T2, T3 semua deadlock |
 | Deadlock run 2 (PID 2434) | T1 dan T3 deadlock, T2 selesai |
 | Mode fixed (PID 2875) | T1, T2, T3 selesai tanpa timeout |
-
-## Anggota Kelompok
-
-| Nama | NIM | Peran |
-|------|-----|-------|
-| (isi) | (isi) | (isi) |
